@@ -17,3 +17,50 @@
 .card-group h4{
     font-size: bold;
 }
+
+/*
+@media screen and (max-width: 767px) { //configuração responsividade mobile phone base iphone se
+    .conteudo {
+      display: block;
+    }
+  
+    .container {
+      max-width: 90%;
+    }
+    
+    .sobre .produto a {
+      display: block;
+      font-size: 1.5em;
+    }
+  
+    .sobre .produto img {
+      margin-right: 0;
+    }
+  
+    .catalogo {
+      display: block;
+    }
+  
+    .catalogo .produto {
+      margin-bottom: 32px;
+    }
+  
+    header div.container {
+      flex-direction: column;
+    }
+    
+  }
+  
+  @media screen and (min-width: 768px) and (max-width: 1023px) {
+    .container {
+      max-width: 90%;
+    }
+  
+    .sobre .produto a {
+      font-size: 1.5em;
+    }
+  
+    .catalogo {
+      grid-template-columns: repeat(2, 49%);
+    }
+  } */
